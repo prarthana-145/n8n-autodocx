@@ -24,8 +24,7 @@ Click the image below to watch a demo video of the application in action. The vi
 
 *Note: You may need to update the path to your video file if you change its name or location.*
 
-[![Watch the Demo](https://i.imgur.com/264d05.jpeg)](./demo_video.mp4)
-
+[![Watch the Demo](./assets/thumbnail.jpg)](./assets/demo_video.mp4)
 ---
 
 ## 🛠️ Tech Stack
@@ -79,7 +78,7 @@ The entire data processing pipeline is orchestrated within a single n8n workflow
 3.  **Activate the Workflow:**
     -   Save and activate the workflow. Copy the **Webhook URL** for the production environment.
 
- ![Frontend Interface](https://i.imgur.com/264d05.jpeg)
+![Backend Screenshot](./assets/back.jpg)
 
 ### Frontend
 
@@ -87,7 +86,7 @@ The entire data processing pipeline is orchestrated within a single n8n workflow
 2.  Paste your n8n Webhook URL and a bearer token (if you configured one) into the **Configuration** section.
 3.  You are now ready to process documents.
 
- ![Frontend Interface](https://i.imgur.com/264d05.jpeg)
+![Frontend Screenshot](./assets/front.jpg)
 
 ---
 
