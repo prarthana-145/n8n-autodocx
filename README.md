@@ -24,7 +24,8 @@ Click the image below to watch a demo video of the application in action. The vi
 
 *Note: You may need to update the path to your video file if you change its name or location.*
 
-![Watch The Demo](./assets/demo_video.mp4)
+[![Watch the Demo](./assets/thumbnail.jpg)](./assets/demo_video.mp4)
+
 ---
 
 ## 🛠️ Tech Stack
