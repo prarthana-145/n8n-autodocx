@@ -22,7 +22,6 @@ After uploading an image and clicking **"Process Document"**, the request is sen
 
 Click the image below to watch a demo video of the application in action. The video (`demo_video.mp4`) is located in this repository.
 
-*Note: You may need to update the path to your video file if you change its name or location.*
 
 [![Watch the Demo](./assets/thumbnail.jpg)](./assets/demovideo.mp4)
 
