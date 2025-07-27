@@ -20,8 +20,7 @@ After uploading an image and clicking **"Process Document"**, the request is sen
 
 ## 🚀 Demo
 
-Click the image below to watch a demo video of the application in action. The video (`demo_video.mp4`) is located in this repository.
-
+Click the image below to watch a demo video of the application in action. 
 
 [![Watch the Demo](./assets/thumbnail.jpg)](./assets/demovideo.mp4)
 
@@ -41,8 +40,7 @@ Click the image below to watch a demo video of the application in action. The vi
 
 The entire data processing pipeline is orchestrated within a single n8n workflow, ensuring modularity and scalability.
 
-*(You can add a screenshot of your n8n workflow here.)*
-`![n8n Workflow Diagram](path/to/your/n8n-workflow-photo.png)`
+
 
 1.  **Ingestion Endpoint:**
     -   A `Webhook` node acts as the entry point, listening for `POST` requests from the front-end containing the document file.
